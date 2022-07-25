@@ -1,0 +1,17 @@
+.container{
+    width: 800px;
+    height: 800px;
+    background-color: darkgray;
+    padding: 10px;
+    margin-left: 300px;
+}
+
+.box{
+   width: 150px;
+   height: 150px;
+}
+.box{
+    background-color: purple;
+    position: fixed;
+    top: 0px;
+}

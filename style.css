@@ -1,0 +1,17 @@
+.container{
+    width: 350px;
+    height: 350px;
+    border: dashed 3px black;
+}
+.box1, .box2{
+    width: 150px;
+    height: 150px;
+}
+.box1{
+    background-color: purple;
+    position: fixed;
+    top:0px;
+}
+.box2{
+    background-color: blue;
+}

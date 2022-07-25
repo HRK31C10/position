@@ -1,0 +1,17 @@
+.container{
+    width:500px;
+    height: 500px;
+    background-color: darkgray;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+.box{
+    width: 450px;
+    height: 450px;
+    margin-left: 50px;
+}
+.box{
+    background-color: yellow;
+    position: relative;
+    bottom: 500px;
+}
